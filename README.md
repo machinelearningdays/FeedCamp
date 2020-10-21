@@ -7,7 +7,7 @@
 * Yavuzalp Güler: (guler.yavuzalp@gmail.com) ITU Elektronik ve Haberleşme Mühendisliği 4. sınıf öğrencisi. Hesaplamalı bilimler, ve veri odaklı geliştirme alanlarında meraklı, alanındaki akademik gelişmelerin yakından takipçisi.
 
 
-## Projemizin Amacı
+## Projemizin Açıklaması
 Projemiz; bireylerde sokak hayvanlarına karşı farkındalık bilinci oluşturmak, ve onları sokaklarda yaşayan çeşitli (kuş, kedi, ve köpek) hayvanlara karşı daha saygılı olmaya ve onların beslenme ihtiyaçlarını karşılamaya teşvik etmeyi amaçlıyor. 
 
 Bu bağlamda projemiz, öncelikli olarak yalnızca seçilen bir pilot bölge ile başlayacaktır. Seçilen pilot bölgenin belediye işleri ile ortaklaşa yürütülecek olan bu projede, sponsorlar ve belediye aracılığıyla, belirlenen çeşitli noktalara mama kabı sabitlenecektir.
@@ -17,6 +17,10 @@ Belirli bölgelere yerleştirilen mama kaplarının tamamı farklı QR kodu bulu
 QR kod kullanılarak konum eşleşmesi sağlandığında, uygulama fotoğraf ekranını açacak, ve 3 seçenek sunacaktır. Bu seçenekler, kuş, kedi ve, köpek çin oluşturulmuş ayrı veri setleri içeren algoritmaya yönlendirecektir. Hangi hayvan beslenilmek isteniyorsa seçim yapılacak ve fotoğraf sunucuya yüklenecektir. Fotoğrafta tanımlanamayan nesne saptandığı taktirde sunucu sizleri blogumuza yönlendirecektir. Veteriner hekimimizle beraber hazırlanan blogumuzda, hangi hayvan için hangi mamanın zararlı olacağını okuyabilecek ve mama bağışı yaparken bu durumlara önem göstermeniz size önerilecektir. Gönüllü olarak bağışlanılan mama karşılığında belirli miktarda PetCoin kazanılacaktır. Kazanılan PetCoinler biriktiğinde anlam kazanacaktır. Belediyelerin ortaklığıyla yürütülen bu projede PetCoinler istenilirse İETT kartına yüklenilebilecek, ya da sizin yerinize sponsorlarımız aracılığıyla belirli miktarda mama bağışı olarak geri dönüş sağlanacaktır. Sürdürülebilirlik ve gelecek planlarımızın tamamı sunumumuzda detaylandırılacaktır.
 
 Projemizin sürdürülebilir ve düzenli işliyor oluşu sokaklarda yaşayan minik dostlarımız için büyük miktarda önem arz etmektedir. Bu bağlamda, eğer 12 saatlik süreç içerisinde QR kod hiç taratılmamışsa o çevrede daha önce bağışta bulunmuş kişilere bir bildirim gidecektir. Bu bildirim, çevredeki gönüllülerin o noktalara tekrardan bağış yapmaya teşvik edici bir gönderim olacaktır. Düzenli bir bağışçı olmak istenilirse, PetCoinlerin dönüştüğü bağış mamaları çevrede bulunan gönüllülere ulaştırılacak ve bu sayede sürdürülebilirlik de sağlanmış olacaktır.
+
+
+## Uygulama UI
+<img src="app_feedcamp.gif" width="400" />
 
 
 ## Platform
