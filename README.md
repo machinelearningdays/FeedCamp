@@ -6,21 +6,34 @@
 * Nalan Duman: (nalan.dumn@gmail.com) İTÜ Matematik Mühendisliği 4. sınıf öğrencisi. React Native ile mobil uygulama ile ilgilenmekte. Yesil Science adlı startup da front-end geliştiricisi.
 * Yavuzalp Güler: (guler.yavuzalp@gmail.com) ITU Elektronik ve Haberleşme Mühendisliği 4. sınıf öğrencisi. Hesaplamalı bilimler, ve veri odaklı geliştirme alanlarında meraklı, alanındaki akademik gelişmelerin yakından takipçisi.
 
+
 ## Projemizin Amacı
-Bireylerde farkındalık bilinci oluşturmak, ve onları sokaklarda yaşayan çeşitli (kuş, kedi, ve köpek) hayvanlara karşı saygı duymaya ve beslemeye teşvik etmektir. Bu bağlamda projemiz, öncelikli olarak yalnızca seçilen bir pilot bölge ile başlayacaktır. Seçilen pilot bölgenin belediye işleri ile ortaklaşa yürütülecek olan bu projede, sponsorlar ve belediye aracılığıyla, belirlenen çeşitli noktalara mama kabı sabitlenecektir. Mama kaplarının tamamı farklı farklı QR kodları bulunduracaktır. QR kodu bulunulan konum ve veriyi yükleyecek olan kişinin konumu eşleştirme amacıyla kullanılacaktır. Konum eşleşmesi sağlandığında, uygulama fotoğraf ekranını açacak, ve 3 seçenek sunacaktır. Bunlar; kuş, kedi ve, köpek için ayrı ayrı veri setleri içeren algoritmaya yönlendirecektir. Daha sonra hangi hayvan için besleme yapmak isteniyorsa, bunu seçecek ve fotoğrafı sunuyuya yüklenecektir ve karşılığında belirli miktarda PetCoin kazanılacaktır. Kazanılan PetCoinler biriktirildiğinde istenilirse İETT kartınına belirli miktarda para olarak, veya sizin yerinize sponsorlarımız aracılığıyla belirli miktarda mama bağışı olarak geri dönüş sağlanacaktır.
+Projemiz; bireylerde sokak hayvanlarına karşı farkındalık bilinci oluşturmak, ve onları sokaklarda yaşayan çeşitli (kuş, kedi, ve köpek) hayvanlara karşı daha saygılı olmaya ve onların beslenme ihtiyaçlarını karşılamaya teşvik etmeyi amaçlıyor. 
+
+Bu bağlamda projemiz, öncelikli olarak yalnızca seçilen bir pilot bölge ile başlayacaktır. Seçilen pilot bölgenin belediye işleri ile ortaklaşa yürütülecek olan bu projede, sponsorlar ve belediye aracılığıyla, belirlenen çeşitli noktalara mama kabı sabitlenecektir.
+
+Belirli bölgelere yerleştirilen mama kaplarının tamamı farklı QR kodu bulunduracaktır. QR kodu, mama kabının bulunduğu konumu ve veriyi yükleyecek olan kişinin konumu eşleştirme amacıyla kullanılacaktır. Bu işlem ile projenin kötüye kullanımının engellenmesi sağlanılacaktır.
+
+QR kod kullanılarak konum eşleşmesi sağlandığında, uygulama fotoğraf ekranını açacak, ve 3 seçenek sunacaktır. Bu seçenekler, kuş, kedi ve, köpek çin oluşturulmuş ayrı veri setleri içeren algoritmaya yönlendirecektir. Hangi hayvan beslenilmek isteniyorsa seçim yapılacak ve fotoğraf sunucuya yüklenecektir. Fotoğrafta tanımlanamayan nesne saptandığı taktirde sunucu sizleri blogumuza yönlendirecektir. Veteriner hekimimizle beraber hazırlanan blogumuzda, hangi hayvan için hangi mamanın zararlı olacağını okuyabilecek ve mama bağışı yaparken bu durumlara önem göstermeniz size önerilecektir. Gönüllü olarak bağışlanılan mama karşılığında belirli miktarda PetCoin kazanılacaktır. Kazanılan PetCoinler biriktiğinde anlam kazanacaktır. Belediyelerin ortaklığıyla yürütülen bu projede PetCoinler istenilirse İETT kartına yüklenilebilecek, ya da sizin yerinize sponsorlarımız aracılığıyla belirli miktarda mama bağışı olarak geri dönüş sağlanacaktır. Sürdürülebilirlik ve gelecek planlarımızın tamamı sunumumuzda detaylandırılacaktır.
+
+Projemizin sürdürülebilir ve düzenli işliyor oluşu sokaklarda yaşayan minik dostlarımız için büyük miktarda önem arz etmektedir. Bu bağlamda, eğer 12 saatlik süreç içerisinde QR kod hiç taratılmamışsa o çevrede daha önce bağışta bulunmuş kişilere bir bildirim gidecektir. Bu bildirim, çevredeki gönüllülerin o noktalara tekrardan bağış yapmaya teşvik edici bir gönderim olacaktır. Düzenli bir bağışçı olmak istenilirse, PetCoinlerin dönüştüğü bağış mamaları çevrede bulunan gönüllülere ulaştırılacak ve bu sayede sürdürülebilirlik de sağlanmış olacaktır.
+
 
 ## Platform
 * Google Colab
 * Google Drive
+
 
 ## Kullanılan Geliştirme Araçları
 * Python 
 * Keras 
 * Tensorflow
 
+
 ## Dökümanlar
 * Keras Documentation
 * Kaggle
+
 
 ## Kütüphaneler
 * Keras 
@@ -36,11 +49,10 @@ Bireylerde farkındalık bilinci oluşturmak, ve onları sokaklarda yaşayan çe
 * ResNet50 (keras.applications)
 * preprocess_input (keras.applications.resnet50)
 
+
 ## Tamamlanmamış Bileşenler
 * Tek bir model üzerinde 3 feature icin binary classification
 
-## [Sunum]()
-<a href="" title="Sunum"></a>
 
 ## Teşekkürler
 Böyle anlamlı ve güzel bir organizasyonla bizleri bir araya getirdikleri için MLDays Ekibine teşekkürlerimizi sunarız.
