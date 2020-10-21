@@ -20,7 +20,7 @@ Projemizin sürdürülebilir ve düzenli işliyor oluşu sokaklarda yaşayan min
 
 
 ## Uygulama UI
-<img src="app_feedcamp.gif" width="400" />
+<img src="app_feedcamp.gif" width="300" />
 
 
 ## Platform
