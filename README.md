@@ -10,17 +10,37 @@
 Bireylerde farkındalık bilinci oluşturmak, ve onları sokaklarda yaşayan çeşitli (kuş, kedi, ve köpek) hayvanlara karşı saygı duymaya ve beslemeye teşvik etmektir. Bu bağlamda projemiz, öncelikli olarak yalnızca seçilen bir pilot bölge ile başlayacaktır. Seçilen pilot bölgenin belediye işleri ile ortaklaşa yürütülecek olan bu projede, sponsorlar ve belediye aracılığıyla, belirlenen çeşitli noktalara mama kabı sabitlenecektir. Mama kaplarının tamamı farklı farklı QR kodları bulunduracaktır. QR kodu bulunulan konum ve veriyi yükleyecek olan kişinin konumu eşleştirme amacıyla kullanılacaktır. Konum eşleşmesi sağlandığında, uygulama fotoğraf ekranını açacak, ve 3 seçenek sunacaktır. Bunlar; kuş, kedi ve, köpek için ayrı ayrı veri setleri içeren algoritmaya yönlendirecektir. Daha sonra hangi hayvan için besleme yapmak isteniyorsa, bunu seçecek ve fotoğrafı sunuyuya yüklenecektir ve karşılığında belirli miktarda PetCoin kazanılacaktır. Kazanılan PetCoinler biriktirildiğinde istenilirse İETT kartınına belirli miktarda para olarak, veya sizin yerinize sponsorlarımız aracılığıyla belirli miktarda mama bağışı olarak geri dönüş sağlanacaktır.
 
 ## Platform
+* Google Colab
+* Google Drive
 
 ## Kullanılan Geliştirme Araçları
+* Python 
+* Keras 
+* Tensorflow
 
 ## Dökümanlar
+* Keras Documentation
+* Kaggle
 
 ## Kütüphaneler
+* Keras 
+* Numpy 
+* Matplotlib.pyplot, 
+* Layers (keras)
+* Sequential (keras.models)
+* Optimizers ( keras )
+* Dense (keras.layers)
+* ImageDataGenerator (keras.preprocessing.image)
+* Backend (keras)
+* EarlyStopping, ModelCheckpoint (keras.callbacks)
+* ResNet50 (keras.applications)
+* preprocess_input (keras.applications.resnet50)
 
 ## Tamamlanmamış Bileşenler
+* Tek bir model üzerinde 3 feature icin binary classification
 
 ## [Sunum]()
 <a href="" title="Sunum"></a>
 
 ## Teşekkürler
-Böyle anlamlı ve güzel bir organizasyonla bizleri bir araya getirdikleri için MLDays Ekibine teşekkürlerimiz sunarız.
+Böyle anlamlı ve güzel bir organizasyonla bizleri bir araya getirdikleri için MLDays Ekibine teşekkürlerimizi sunarız.
