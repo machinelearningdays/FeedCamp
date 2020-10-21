@@ -18,6 +18,8 @@ QR kod kullanılarak konum eşleşmesi sağlandığında, uygulama fotoğraf ekr
 
 Projemizin sürdürülebilir ve düzenli işliyor oluşu sokaklarda yaşayan minik dostlarımız için büyük miktarda önem arz etmektedir. Bu bağlamda, eğer 12 saatlik süreç içerisinde QR kod hiç taratılmamışsa o çevrede daha önce bağışta bulunmuş kişilere bir bildirim gidecektir. Bu bildirim, çevredeki gönüllülerin o noktalara tekrardan bağış yapmaya teşvik edici bir gönderim olacaktır. Düzenli bir bağışçı olmak istenilirse, PetCoinlerin dönüştüğü bağış mamaları çevrede bulunan gönüllülere ulaştırılacak ve bu sayede sürdürülebilirlik de sağlanmış olacaktır.
 
+## [Uygulama](https://github.com/FeedCampMLDays/FeedCamp-App)
+<a href="" title="Uygulama"></a>
 
 ## Uygulama UI
 <img src="app_feedcamp.gif" width="300" />
