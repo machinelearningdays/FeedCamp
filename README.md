@@ -21,3 +21,6 @@ Bireylerde farkındalık bilinci oluşturmak, ve onları sokaklarda yaşayan çe
 
 ## [Sunum]()
 <a href="" title="Sunum"></a>
+
+## Teşekkürler
+Böyle anlamlı ve güzel bir organizasyonla bizleri bir araya getirdikleri için MLDays Ekibine teşekkürlerimiz sunarız.
